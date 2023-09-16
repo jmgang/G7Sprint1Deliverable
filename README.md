@@ -35,4 +35,4 @@ To commit back to repository
 - [Hanna Calling]
 - [Lorenzo Clado]
 - [Sen Ang](https://github.com/jmgang)
-- [Josh Valdeleon]
+- [Josh Valdeleon](https://github.com/imjbmkz)
